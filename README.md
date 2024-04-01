@@ -1,2 +1,2 @@
 # casino
-stupid-simple terminal blackjack game
+stupid-simple (mostly stupid) terminal blackjack game made in rust.
